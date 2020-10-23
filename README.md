@@ -19,7 +19,7 @@
 </template>
 ```
 
-![](./image/1.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/1.jpg)
 
 #### 4.设置场景数据
 
@@ -32,7 +32,7 @@
 </template>
 ```
 
-![](./image/2.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/2.jpg)
 
 #### 5.加载google影像数据（使用了imageryLayer.addImageryProvider）
 
@@ -44,7 +44,7 @@ viewer.imageryLayers.addImageryProvider(
 )
 ```
 
-![](./image/3.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/3.jpg)
 
 #### 6.添加已经封装好的淹没分析模拟组件
 
@@ -91,17 +91,17 @@ _drawWater(targetHeight, adapCoordi) {
 
 
 
-![](./image/4.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/4.jpg)
 
 #### 7.添加已经封装好的量测组件
 
-![](./image/5.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/5.jpg)
 
-![](./image/6.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/6.jpg)
 
 #### 8.创建矢量图层文件（geojson/kml），此次演示采用了线上生成geojson文件
 
-![](./image/7.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/7.jpg)
 
 #### 9.设置三维地球动画定位
 
@@ -157,7 +157,7 @@ setTimeout(function(){
 
 
 
-![](./image/8.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/8.jpg)
 
 #### 11.设置鼠标监听事件，捕捉该空间地理坐标位置处的模型（矢量图层或者BIM模型），同时将矢量图层填充为白色，并打印该图层的**name**信息
 
@@ -175,8 +175,8 @@ hightlightLine() {
 
 
 
-![](./image/11.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/11.jpg)
 
-![](./image/9.jpg)
+![](https://github.com/nikonikoCW/GisDemo/tree/main/image/9.jpg)
 
-![](./image/10.jpg)
+![](.https://github.com/nikonikoCW/GisDemo/tree/main/image/10.jpg)
