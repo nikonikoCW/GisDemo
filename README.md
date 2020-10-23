@@ -19,7 +19,7 @@
 </template>
 ```
 
-![](https://github.com/nikonikoCW/GisDemo/tree/main/image/1.jpg)
+![](https://github.com/nikonikoCW/GisDemo/blob/main/image/1.jpg)
 
 #### 4.设置场景数据
 
@@ -32,7 +32,7 @@
 </template>
 ```
 
-![](https://github.com/nikonikoCW/GisDemo/tree/main/image/2.jpg)
+![](https://github.com/nikonikoCW/GisDemo/blob/main/image/2.jpg)
 
 #### 5.加载google影像数据（使用了imageryLayer.addImageryProvider）
 
@@ -44,7 +44,7 @@ viewer.imageryLayers.addImageryProvider(
 )
 ```
 
-![](https://github.com/nikonikoCW/GisDemo/tree/main/image/3.jpg)
+![](https://github.com/nikonikoCW/GisDemo/blob/main/image/3.jpg)
 
 #### 6.添加已经封装好的淹没分析模拟组件
 
